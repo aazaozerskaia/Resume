@@ -55,8 +55,10 @@
 
 **НИУ ВШЭ, Магистр ФКН,** Машинное обучение и высоконагруженные системы
 2021 – 2023
+
 **НИУ ВШЭ СПб, Бакалавр Экономики**
 2016 – 2020
+
 **Tor Vergata University of Rome, Economics**
 2019, семестр по международной мобильности
 
@@ -83,23 +85,23 @@ aazaozerskaia@gmail.com
 
 ---
 
-•  Python:** Pandas, NumPy, SkLearn,  Statsmodels, CatBoost, Matplotlib, etc 
+• **Python**: Pandas, NumPy, SkLearn,  Statsmodels, CatBoost, Matplotlib, etc 
 
-•  SQL:** Teradata, MS SQL
+• **SQL**: Teradata, MS SQL
 
-**•  Excel:** DAX, MDX, M, VBA
+• **Excel:** DAX, MDX, M, VBA
 
-**•  Git 
+• Git 
 
-**•  Machine Learning 
+• Machine Learning 
 
-**•  Time series
+• Time series
 
-**•  Математическая статистика 
+• Математическая статистика 
 
-**•  Анализ данных
+• Анализ данных
 
-**•  Финансовый анализ
+• Финансовый анализ
 
 ## Курсы
 
