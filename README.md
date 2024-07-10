@@ -45,7 +45,7 @@
 
 Среднесрочное предсказание стоимости акций S&P 500 ([github](https://github.com/aazaozerskaia/Stock_Price_Prediction))  
 дипломный проект магистратуры | моделирование и разработка телеграм-бота
-
+  
 Учебные проекты в рамках курса Яндекс Практикума ([github](https://github.com/aazaozerskaia/YaPraktikum))  
 разведочный анализ данных, построение и валидация моделей
 
@@ -66,9 +66,9 @@
 
 ---
 
-+7(921)86 86 405
-[t.me/alena_zaozerskaia](https://t.me/alena_zaozerskaia)
-[github.com/aazaozerskaia](https://github.com/aazaozerskaia)
++7(921)86 86 405  
+[t.me/alena_zaozerskaia](https://t.me/alena_zaozerskaia)  
+[github.com/aazaozerskaia](https://github.com/aazaozerskaia)  
 aazaozerskaia@gmail.com
 
 ## Языки
@@ -82,15 +82,15 @@ aazaozerskaia@gmail.com
 
 ---
 
-• **Python**: Pandas, NumPy, SkLearn,  Statsmodels, CatBoost, Matplotlib, etc 
-• **SQL**: Teradata, MS SQL
-• **Excel:** DAX, MDX, M, VBA
-• Git 
-• Machine Learning 
-• Time series
-• Математическая статистика 
-• Анализ данных
-• Финансовый анализ
+• **Python**: Pandas, NumPy, SkLearn,  Statsmodels, CatBoost, Matplotlib, etc   
+• **SQL**: Teradata, MS SQL  
+• **Excel:** DAX, MDX, M, VBA  
+• Git   
+• Machine Learning   
+• Time series  
+• Математическая статистика   
+• Анализ данных  
+• Финансовый анализ  
 
 ## Курсы
 
